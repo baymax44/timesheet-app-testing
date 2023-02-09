@@ -1,0 +1,74 @@
+[
+    {
+        "projectName": "ATO",
+        "tasks": [
+            {
+                "taskName": "Frontend Development",
+                "Devs": ["63e2daec84c5a92cfe6d8082", "63e2b7dd11fdb9a295e64a00", "63e2db1484c5a92cfe6d8088"]
+            },
+            {
+                "taskName": "Backend Development",
+                "Devs": ["63e2b7dd11fdb9a295e64a00"]
+            },
+            {
+                "taskName": "QA Test",
+                "Devs": ["63e2dafd84c5a92cfe6d8085"]
+            }
+        ]
+    },
+    {
+        "projectName": "AIRDROP",
+        "tasks": [
+            {
+                "taskName": "Building Login Page",
+                "Devs": ["63e2db1484c5a92cfe6d8088", "63e2b7dd11fdb9a295e64a00"]
+            },
+            {
+                "taskName": "Building Dashboard",
+                "Devs": ["63e2dafd84c5a92cfe6d8085", "63e2b7dd11fdb9a295e64a00", "63e2db1484c5a92cfe6d8088"]
+            },
+            {
+                "taskName": "Building Blog Page",
+                "Devs": ["63e2b7dd11fdb9a295e64a00", "63e2dafd84c5a92cfe6d8085"]
+            }
+        ]
+    },
+    {
+        "projectName": "KIRA",
+        "tasks": [
+            {
+                "taskName": "Building NFT MarketPlace",
+                "Devs": ["63e2db1484c5a92cfe6d8088", "63e2dafd84c5a92cfe6d8085", "63e2b7dd11fdb9a295e64a00"]
+            },
+            {
+                "taskName": "Building Unity Game",
+                "Devs": ["63e2dafd84c5a92cfe6d8085", "63e2db1484c5a92cfe6d8088"]
+            },
+            {
+                "taskName": "Building Backend",
+                "Devs": ["63e2b7dd11fdb9a295e64a00", "63e2db1484c5a92cfe6d8088"]
+            },
+            {
+                "taskName": "QA Test",
+                "Devs": ["63e2b7dd11fdb9a295e64a00", "63e2dafd84c5a92cfe6d8085"]
+            }
+        ]
+    },
+    {
+        "projectName": "Recite",
+        "tasks": [
+            {
+                "taskName": "Building Chatting Page",
+                "Devs": ["63e2b7dd11fdb9a295e64a00", "63e2dafd84c5a92cfe6d8085"]
+            },
+            {
+                "taskName": "Building Calling Page",
+                "Devs": ["63e2daec84c5a92cfe6d8082", "63e2b7dd11fdb9a295e64a00"]
+            },
+            {
+                "taskName": "Building Lobby Page",
+                "Devs": ["63e2b7dd11fdb9a295e64a00", "63e2db1484c5a92cfe6d8088", "63e2dafd84c5a92cfe6d8085"]
+            }
+        ]
+    }
+]
